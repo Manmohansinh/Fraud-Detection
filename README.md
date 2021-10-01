@@ -1,5 +1,4 @@
 # Fraud-Detection
-IPython Notebook 
 Link for the dataset
 https://www.kaggle.com/ealaxi/paysim1
 Citations:
